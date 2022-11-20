@@ -1,4 +1,4 @@
-# Mealable (Temporary title)
+# Mealable
 
 Mealable is a Chrome extension tool to collect recipes on the Internet and create meal planner.
 Also, it creates grocery shopping lists automatically from the meal planner.
